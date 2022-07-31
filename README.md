@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=하위&fontSize=90)
 
 <div align=center><h2>📚 STACKS</h2></div>
 
