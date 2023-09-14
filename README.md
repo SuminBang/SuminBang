@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkdtnals6540&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=qkdtnals6540&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suminbang&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=suminbang&show_icons=true">
   <br>
   
   <br>
