@@ -14,8 +14,6 @@
   <br>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkdtnals6540)](https://solved.ac/qkdtnals6540)
-
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumin&show_icons=true&theme=gruvbox)  
  
   <br>
 
