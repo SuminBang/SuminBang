@@ -22,6 +22,5 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkdtnals6540)](https://solved.ac/qkdtnals6540)
   
   
-  <img src="https://github-readme-stats.vercel.app/api?username=suminbang&show_icons=true">
 
 
